@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.2.4)
+    seg (1.2.0)
+    syro (3.2.1)
+      rack (>= 1.6.0)
+      seg
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  syro
+
+BUNDLED WITH
+   2.3.19
